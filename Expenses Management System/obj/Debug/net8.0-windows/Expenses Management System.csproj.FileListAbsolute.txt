@@ -1,0 +1,33 @@
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\Expenses Management System.exe
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\Expenses Management System.deps.json
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\Expenses Management System.runtimeconfig.json
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\Expenses Management System.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\Expenses Management System.pdb
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.Loading.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.Login.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.MainMenu.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\refint\Expenses Management System.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.pdb
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\ref\Expenses Management System.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses Management System.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.AdminExpenses.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.Expenses.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.Reports.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.Users.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.ViewExpenses.resources
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses.53F078D3.Up2Date
+C:\Users\Administrator\source\repos\Expenses Management System\Expenses Management System\obj\Debug\net8.0-windows\Expenses_Management_System.AdminLogin.resources
